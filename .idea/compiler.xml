@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ddbuy-common-interface" />
         <module name="ddbuy-entity" />
+        <module name="ddbuy-fastdfs-test" />
         <module name="ddbuy-mapper" />
         <module name="ddbuy_comment_service" />
         <module name="ddbuy_manage_web" />
